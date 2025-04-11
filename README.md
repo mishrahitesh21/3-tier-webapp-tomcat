@@ -1,2 +1,2 @@
-# 3TierAPp
-pushing LogiWebApp war file
+# 3TierAPP
+Completed the Jenkins CI/CD setup.
